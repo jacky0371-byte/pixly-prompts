@@ -1,6 +1,6 @@
 # SKU 差异识别 — 系统 Prompt（seedream / 字节 Seedream）
 
-**版本：** v1.1-seedream
+**版本：** v1.2-seedream
 **最后更新：** 2026-04-05
 **适用模型：** Gemini / 通义千问 VL / 其他图像理解模型
 
